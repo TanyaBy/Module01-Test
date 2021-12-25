@@ -1,0 +1,16 @@
+body{
+    background-color: salmon;
+}
+h1{
+    color: black;
+}
+p{
+    color: seagreen;
+}
+li{
+    color: silver;
+}
+q{
+    color: slateblue;
+    background: tomato;
+}
