@@ -1,8 +1,9 @@
 body{
-    background-color: salmon;
+    font-family: 'Nunito Sans', sans-serif;
 }
 h1{
     color: black;
+    font-weight: 900;
 }
 p{
     color: seagreen;
